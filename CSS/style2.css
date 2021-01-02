@@ -1,0 +1,12 @@
+.blog{
+    border: 5px solid darkblue;
+    width: 30%;
+    height: auto;
+    border-radius: 5px;
+    margin: 20px 30px;
+    padding: 20px 30px;
+    display: inline-block;
+}
+h3{
+    text-align: center;
+}
