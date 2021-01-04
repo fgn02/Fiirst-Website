@@ -1,0 +1,16 @@
+h1{
+    color: #000;
+}
+h1:hover{
+    color: rgb(164, 11, 252);
+    font-size: 60px;
+}
+input:focus{
+    color: rgb(26, 10, 247);
+}
+li:nth-child(2n){
+    color: brown;
+}
+a:visited{
+    color: blue;
+}
